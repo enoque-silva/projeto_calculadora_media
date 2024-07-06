@@ -24,12 +24,7 @@ formularioAtividade.addEventListener('submit', function(evento) {
     evento.preventDefault();
     adicionarLinha();
     atualizarTabela();
-    atualizarMediaFinal();
-
-    
-
-    
-
+    atualizarMediaFinal();  
 });
 
 
